@@ -6,7 +6,7 @@ Mahasiswa diminta untuk menjalankan kode, melakukan pengujian Hasil instalasi VS
 ## Instruksi Pengumpulan
 1. copy kode berikut:
 
-==========================================================================================================
+=================
 package main
 import "fmt"
 
@@ -17,7 +17,7 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Hasil Add(2, 3):", Add(2, 3))
 	fmt.Println("Hasil Add(-2, -3):", Add(-2, -3))
-==========================================================================================================
+==================
 
 2. Jalankan kode.
 3. screenshot hasil.
